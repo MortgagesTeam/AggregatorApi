@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6jMdpjWEfObhLeDFSS9PKPtBmd+YbnKqGRvrTxyI/Bo=",
+  "Source": "AggregatorApi",
+  "BasePath": "_content/AggregatorApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
