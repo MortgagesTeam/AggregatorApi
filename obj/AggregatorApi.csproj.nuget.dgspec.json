@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repos\\Mortgage POC\\MortgageAPI\\AggregatorApi.csproj": {}
+    "C:\\Repos\\Mortgage POC\\AggregatorApi\\AggregatorApi.csproj": {}
   },
   "projects": {
-    "c:\\Repos\\Mortgage POC\\MortgageAPI\\AggregatorApi.csproj": {
+    "C:\\Repos\\Mortgage POC\\AggregatorApi\\AggregatorApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repos\\Mortgage POC\\MortgageAPI\\AggregatorApi.csproj",
+        "projectUniqueName": "C:\\Repos\\Mortgage POC\\AggregatorApi\\AggregatorApi.csproj",
         "projectName": "AggregatorApi",
-        "projectPath": "c:\\Repos\\Mortgage POC\\MortgageAPI\\AggregatorApi.csproj",
+        "projectPath": "C:\\Repos\\Mortgage POC\\AggregatorApi\\AggregatorApi.csproj",
         "packagesPath": "C:\\Users\\anurag.q.singh\\.nuget\\packages\\",
-        "outputPath": "c:\\Repos\\Mortgage POC\\MortgageAPI\\obj\\",
+        "outputPath": "C:\\Repos\\Mortgage POC\\AggregatorApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anurag.q.singh\\AppData\\Roaming\\NuGet\\NuGet.Config"

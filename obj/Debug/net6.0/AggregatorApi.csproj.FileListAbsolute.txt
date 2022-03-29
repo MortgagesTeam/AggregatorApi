@@ -41,3 +41,13 @@ C:\Repos\AggregatorApi\obj\Debug\net6.0\ref\AggregatorApi.dll
 C:\Repos\AggregatorApi\obj\Debug\net6.0\AggregatorApi.pdb
 C:\Repos\AggregatorApi\obj\Debug\net6.0\AggregatorApi.genruntimeconfig.cache
 C:\Repos\AggregatorApi\obj\Debug\net6.0\refint\AggregatorApi.dll
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.csproj.AssemblyReference.cache
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.AssemblyInfoInputs.cache
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.AssemblyInfo.cs
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.csproj.CoreCompileInputs.cache
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.dll
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\refint\AggregatorApi.dll
+C:\Repos\Mortgage POC\AggregatorApi\obj\Debug\net6.0\AggregatorApi.pdb

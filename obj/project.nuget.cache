@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcxsA2WHAtZ5qYhi0d+vLwlMAW0aJpUaNMu+2JQo/TSxbsXF2gKrX2xQTmKZ2GLkxsQeA4m8CSP//OD20e1gJQ==",
+  "dgSpecHash": "I5yePlEaYa5YtviF3FjWuy5LHWNlUsqXObvP1YYJeTclB2GfFF5eKsiiFEP9qA2vbMjxRfUOHI9x4Hrqha5A4Q==",
   "success": true,
-  "projectFilePath": "c:\\Repos\\Mortgage POC\\MortgageAPI\\AggregatorApi.csproj",
+  "projectFilePath": "C:\\Repos\\Mortgage POC\\AggregatorApi\\AggregatorApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anurag.q.singh\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\anurag.q.singh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
