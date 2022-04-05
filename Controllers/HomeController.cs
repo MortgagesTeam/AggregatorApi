@@ -58,15 +58,19 @@ namespace AggregatorApi.Controllers
         [HttpDelete("{id:length(24)}")]
         public async Task<IActionResult> Delete(string id)
         {
-            var Customer = await _customerService.GetAsync(id);
+            if (!string.IsNullOrEmpty(id))
+            {
+                var Customer = await _customerService.GetAsync(id);
 
-            if (Customer is null)
-            {
-                return NotFound();
-            }
-            else 
-            {
-            await _customerService.RemoveAsync(Customer.Id);
+                if (Customer is null)
+                {
+                    return NotFound();
+                }
+                if (!string.IsNullOrEmpty(Customer?.Id))
+                {
+                    await _customerService.RemoveAsync(Customer.Id);
+                }
+
             }
 
             return NoContent();
